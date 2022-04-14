@@ -32,9 +32,9 @@ It's significant to point out the "Dependency Rule" of the Clean Architecture sa
 ```mermaid
 graph TD
 
-classDef orange fill:#FFA500,stroke:#FFF,stroke-width:2px,color:#FFF;
-classDef yellow fill:#FFD700,stroke:#FFF,stroke-width:2px,color:#FFF;
-classDef green fill:#BADA55,stroke:#FFF,stroke-width:2px,color:#FFF;
+classDef orange fill:#FFA500,stroke:#000000,stroke-width:2px,color:#000000;
+classDef yellow fill:#FFD700,stroke:#000000,stroke-width:2px,color:#000000;
+classDef green fill:#BADA55,stroke:#000000,stroke-width:2px,color:#000000;
 classDef purple fill:#8A2BE2,stroke:#FFF,stroke-width:2px,color:#FFF;
 classDef blue fill:#326CE5,stroke:#FFF,stroke-width:2px,color:#FFF;
 classDef gray fill:#DDDDDD,stroke:#FFF,stroke-width:2px,color:#FFF;
