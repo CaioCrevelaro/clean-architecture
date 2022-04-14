@@ -35,8 +35,8 @@ graph TD
 classDef orange fill:#FFA500, color:#000000;
 classDef yellow fill:#FFD700,color:#000000;
 classDef green fill:#BADA55,color:#000000;
-classDef purple fill:#8A2BE2,stroke:#FFF,stroke-width:4px,color:#FFF;
-classDef blue fill:#326CE5,stroke:#FFF,stroke-width:4px,color:#FFF;
+classDef purple fill:#8A2BE2,stroke:#FFF,stroke-width:2px,color:#FFF;
+classDef blue fill:#326CE5,stroke:#FFF,stroke-width:2px,color:#FFF;
 classDef gray fill:#DDDDDD,color:#000000;
 
 a11(ACTIVITY/<br>FRAGMENT):::yellow;
