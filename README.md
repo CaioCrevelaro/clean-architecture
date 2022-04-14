@@ -37,7 +37,7 @@ classDef yellow fill:#FFD700,stroke:#000000,stroke-width:2px,color:#000000;
 classDef green fill:#BADA55,stroke:#000000,stroke-width:2px,color:#000000;
 classDef purple fill:#8A2BE2,stroke:#FFF,stroke-width:2px,color:#FFF;
 classDef blue fill:#326CE5,stroke:#FFF,stroke-width:2px,color:#FFF;
-classDef gray fill:#DDDDDD,stroke:#FFF,stroke-width:2px,color:#FFF;
+classDef gray fill:#DDDDDD,stroke:#000000,stroke-width:2px,color:#000000;
 
 a11(ACTIVITY/<br>FRAGMENT):::yellow;
 a21(VIEWMODEL):::green;
